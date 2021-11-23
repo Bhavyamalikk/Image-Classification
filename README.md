@@ -4,7 +4,7 @@ CIFAR-10 Dataset has 10 different categories of images in it. There are a total 
 
 
 ### TASK:
-The task is to classify the images into their respective category classes.
+The task is to classify the images into their respective category classes using convolutional neural network (CNN).
 
 
 ### OUTLINE:
