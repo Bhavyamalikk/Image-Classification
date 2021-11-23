@@ -20,8 +20,8 @@ The task is to classify the images into their respective category classes.
 
 
 ### END RESULTS:
-Accuracy of the CNN model : 0.7186
-Calculated Loss : 0.8381
+1. Accuracy of the CNN model : 0.7186
+2. Calculated Loss : 0.8381
 
 
 
